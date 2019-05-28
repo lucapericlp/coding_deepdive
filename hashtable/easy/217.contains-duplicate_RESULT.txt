@@ -1,0 +1,3 @@
+  ✔ Accepted
+  ✔ 18/18 cases passed (44 ms)
+[WARN] Failed to get submission beat ratio.
